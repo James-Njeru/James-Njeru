@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @James-Njeru
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ...
+- 🌱 Below are my skills
+-   ⭐️ Mobile Application development
+-   ⭐️ Web development
+-   ⭐️ Java Programming language
+-   ⭐️ C# Programming language
+-   ⭐️ JavaScript
+-   ⭐️ Php
+-   ⭐️ SQLite, MySql and Firebase databases
 - 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me ... jamesnjeru397@gmail.com
 
