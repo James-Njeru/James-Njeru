@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-Njeru
 - 👀 I’m interested in software development
 - 🌱 Below are my skills
--   ⭐️ Mobile Application development
+-   ⭐️ Mobile Application development(Flutter & Java)
 -   ⭐️ Web development
 -   ⭐️ Java Programming language
 -   ⭐️ C# Programming language
