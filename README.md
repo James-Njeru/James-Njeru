@@ -3,9 +3,12 @@
 - 🌱 Below are my skills
 -   ⭐️ Mobile Application development(Flutter)
 -   ⭐️ Web development
+-   ⭐️ JavaScript
+-   ⭐️ ReactJs
+-   ⭐️ NodeJs
+-   ⭐️ ExpressJs
 -   ⭐️ Java Programming language
 -   ⭐️ C# Programming language
--   ⭐️ JavaScript
 -   ⭐️ SQLite, MySql and Firebase databases
 - 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me ... jamesnjeru397@gmail.com
