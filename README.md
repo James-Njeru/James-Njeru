@@ -12,7 +12,7 @@
 -   ⭐️ C# Programming language
 -   ⭐️ SQLite, MySql and Firebase databases
 - 💞️ I’m looking to collaborate on any software project
-- 📫 How to reach me ... jamesnjeru397@gmail.com
+- 📫 How to reach me ... jamesnjerugatei@gmail.com
 
 <!---
 James-Njeru/James-Njeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
