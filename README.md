@@ -10,7 +10,7 @@
 -   ⭐️ Java Programming language
 -   ⭐️ Spring boot
 -   ⭐️ C# Programming language
--   ⭐️ SQLite, MySql and Firebase databases
+-   ⭐️ SQLite, MySql, Oracle, MongoDB, PostgreSQL and Firebase databases
 - 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me ... jamesnjerugatei@gmail.com
 
